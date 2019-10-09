@@ -1,7 +1,7 @@
-# 《神经网络与深度学习》课程练习
+# 《神经网络与深度学习》课程练习个人解答
 
 
-Neural Network and Deep Learning
+Solution for Neural Network and Deep Learning
 
 ### 环境设定
 本次作业需要首先安装 anaconda3 下载地址 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/ ， 
